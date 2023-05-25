@@ -18,7 +18,7 @@ public class FibonacciPattern {
             }
             pattern.append("\n");
         }
-    
+     
         System.out.print(pattern);
     }
     
